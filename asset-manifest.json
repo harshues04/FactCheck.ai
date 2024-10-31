@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/FactCheck.ai/static/css/main.de405da5.css",
+    "main.js": "/FactCheck.ai/static/js/main.e7ccc921.js",
+    "static/js/453.8ab44547.chunk.js": "/FactCheck.ai/static/js/453.8ab44547.chunk.js",
+    "static/media/logo.png": "/FactCheck.ai/static/media/logo.1605ea97d219f81e97ca.png",
+    "index.html": "/FactCheck.ai/index.html",
+    "main.de405da5.css.map": "/FactCheck.ai/static/css/main.de405da5.css.map",
+    "main.e7ccc921.js.map": "/FactCheck.ai/static/js/main.e7ccc921.js.map",
+    "453.8ab44547.chunk.js.map": "/FactCheck.ai/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de405da5.css",
+    "static/js/main.e7ccc921.js"
+  ]
+}
